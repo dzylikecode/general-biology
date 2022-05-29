@@ -156,13 +156,11 @@
 
   1967 年生态学家惠特克(R. H. Whittaker)提出
 
-  原核 生物界(MOnera)、原生生物界(PrOtista)、真菌界(Fungi)、植物界(Plantae)和动物界(Animalia)
+  原核生物界(MOnera)、原生生物界(PrOtista)、真菌界(Fungi)、植物界(Plantae)和动物界(Animalia)
 
 - 三域分类学说
 
-  分子生物学家伍斯(C. R. WoeSe)和福克斯(G. E.
-
-  FOX)等人
+  分子生物学家伍斯(C.R.WoeSe)和福克斯(G.E.FOX)等人
 
   - 依据
 
